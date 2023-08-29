@@ -1,7 +1,6 @@
-package com.lessons.tries.generics.datetime;
+package com.lessons.tries.datetime;
 
 import java.time.LocalDateTime;
-import java.util.Date;
 
 public class ReturnLocalDateTime {
     public static void main(String[] args) {

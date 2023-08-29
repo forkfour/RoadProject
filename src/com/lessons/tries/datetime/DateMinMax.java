@@ -1,4 +1,6 @@
-package com.lessons.tries.generics;
+package com.lessons.tries.datetime;
+
+import com.lessons.tries.generics.Pair;
 
 import java.time.LocalDate;
 
